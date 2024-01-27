@@ -47,4 +47,3 @@
 10. Write a program to sort the given array in descending order and display the result.
     List<string> daysList = new List<string>
     {"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
-    Disclaimer: Do not copy, do it yourself
