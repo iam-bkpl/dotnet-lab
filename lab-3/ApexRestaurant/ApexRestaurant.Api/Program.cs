@@ -20,3 +20,11 @@ public class Program
         WebHost.CreateDefaultBuilder(args)
             .UseStartup<Startup>();
 }
+
+
+
+/*
+  // "ConnectionStrings": {
+  //   "DefaultConnection": "Server=localhost;Database=apex_restaurant;Uid=dotnetlab;Pwd=Pa$$word123;"
+  // },
+*/

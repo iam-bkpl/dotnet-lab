@@ -17,7 +17,6 @@ namespace ApexRestaurant.Repository
         {
             return DbContext.Set<T>().AsQueryable();
         }
-
         public void Insert(T entity)
         {
             DbContext.Set<T>().Add(entity);

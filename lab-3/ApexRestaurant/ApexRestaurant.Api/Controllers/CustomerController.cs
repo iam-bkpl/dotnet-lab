@@ -1,7 +1,6 @@
 using ApexRestaurant.Repository.Domain;
 using ApexRestaurant.Services.SCustomer;
 using Microsoft.AspNetCore.Mvc;
-
 namespace ApexRestaurant.Api.Controller
 {
     [Route("api/customer")]
